@@ -1,1 +1,1 @@
-# RandomNumberMinigame
+# Random Number minigame with JavaScript
